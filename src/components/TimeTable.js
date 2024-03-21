@@ -19,197 +19,224 @@ function TimeTable() {
           </thead>
           <tbody>
             <tr>
-              <td className="align-middle">09:00am</td>
+              <td className="align-middle">06:00am</td>
               <td>
                 <span className="bg-sky padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16 xs-font-size13">
-                  Dance
+                  CrossStart
                 </span>
-                <div className="margin-10px-top font-size14">9:00-10:00</div>
-                <div className="font-size13 text-light-gray">Ivana Wong</div>
+                <div className="margin-10px-top font-size14">06:00-07:00</div>
+                <div className="font-size13 text-light-gray">Pierre</div>
               </td>
+              <td class="bg-light-gray"></td> {/* makes the event skip*/}
               <td>
-                <span className="bg-green padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16 xs-font-size13">
-                  Yoga
+                <span className="bg-sky padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16 xs-font-size13">
+                  CrossStart
                 </span>
-                <div className="margin-10px-top font-size14">9:00-10:00</div>
-                <div className="font-size13 text-light-gray">Marta Healy</div>
+                <div className="margin-10px-top font-size14">06:00-07:00</div>
+                <div className="font-size13 text-light-gray">Pierre</div>
+              </td>
+              <td class="bg-light-gray"></td>
+              <td>
+                <span className="bg-sky padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16 xs-font-size13">
+                  CrossStart
+                </span>
+                <div className="margin-10px-top font-size14">06:00-07:00</div>
+                <div className="font-size13 text-light-gray">Pierre</div>
+              </td>
+              <td class="bg-light-gray"></td>
+            </tr>
+
+            <tr>
+              <td class="align-middle">07:00am</td>
+              <td>
+                <span class="bg-yellow padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
+                  CrossTraining
+                </span>
+                <div class="margin-10px-top font-size14">07:00-08:00</div>
+                <div class="font-size13 text-light-gray">Fedra</div>
               </td>
               <td>
                 <span class="bg-yellow padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  Music
+                  CrossTraining
                 </span>
-                <div class="margin-10px-top font-size14">9:00-10:00</div>
-                <div class="font-size13 text-light-gray">Ivana Wong</div>
+                <div class="margin-10px-top font-size14">07:00-08:00</div>
+                <div class="font-size13 text-light-gray">Fedra</div>
               </td>
               <td>
-                <span class="bg-sky padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  Dance
+                <span class="bg-yellow padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
+                  CrossTraining
                 </span>
-                <div class="margin-10px-top font-size14">9:00-10:00</div>
-                <div class="font-size13 text-light-gray">Ivana Wong</div>
+                <div class="margin-10px-top font-size14">07:00-08:00</div>
+                <div class="font-size13 text-light-gray">Fedra</div>
               </td>
               <td>
-                <span class="bg-purple padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  Art
+                <span class="bg-yellow padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
+                  CrossTraining
                 </span>
-                <div class="margin-10px-top font-size14">9:00-10:00</div>
-                <div class="font-size13 text-light-gray">Kate Alley</div>
+                <div class="margin-10px-top font-size14">07:00-08:00</div>
+                <div class="font-size13 text-light-gray">Fedra</div>
               </td>
               <td>
-                <span class="bg-pink padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  English
+                <span class="bg-yellow padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
+                  CrossTraining
                 </span>
-                <div class="margin-10px-top font-size14">9:00-10:00</div>
-                <div class="font-size13 text-light-gray">James Smith</div>
+                <div class="margin-10px-top font-size14">07:00-08:00</div>
+                <div class="font-size13 text-light-gray">Fedra</div>
+              </td>
+              <td class="bg-light-gray"></td>
+            </tr>
+
+            <tr>
+              <td class="align-middle">17:00pm</td>
+              <td>
+                <span class="bg-yellow padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
+                  CrossTraining
+                </span>
+                <div class="margin-10px-top font-size14">17:00-18:00</div>
+                <div class="font-size13 text-light-gray">Alex</div>
+              </td>
+              <td>
+                <span class="bg-yellow padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
+                  CrossTraining
+                </span>
+                <div class="margin-10px-top font-size14">17:00-18:00</div>
+                <div class="font-size13 text-light-gray">Alex</div>
+              </td>
+              <td>
+                <span class="bg-yellow padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
+                  CrossTraining
+                </span>
+                <div class="margin-10px-top font-size14">17:00-18:00</div>
+                <div class="font-size13 text-light-gray">Alex</div>
+              </td>
+              <td>
+                <span class="bg-yellow padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
+                  CrossTraining
+                </span>
+                <div class="margin-10px-top font-size14">17:00-18:00</div>
+                <div class="font-size13 text-light-gray">Alex</div>
+              </td>
+              <td>
+                <span class="bg-yellow padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
+                  CrossTraining
+                </span>
+                <div class="margin-10px-top font-size14">17:00-18:00</div>
+                <div class="font-size13 text-light-gray">Alex</div>
+              </td>
+              <td>
+                <span class="bg-yellow padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
+                  HeroWOD
+                </span>
+                <div class="margin-10px-top font-size14">10:00-11:00</div>
+                <div class="font-size13 text-light-gray">Alex</div>
               </td>
             </tr>
 
             <tr>
-              <td class="align-middle">10:00am</td>
+              <td class="align-middle">18:00pm</td>
               <td>
-                <span class="bg-yellow padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  Music
+                <span class="bg-green padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
+                  RxClass
                 </span>
-                <div class="margin-10px-top font-size14">10:00-11:00</div>
-                <div class="font-size13 text-light-gray">Ivana Wong</div>
+                <div class="margin-10px-top font-size14">18:00-19:00</div>
+                <div class="font-size13 text-light-gray">Pierre</div>
+                <span class="bg-orange padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
+                  Gymnastic
+                </span>
+                <div class="margin-10px-top font-size14">18:00-19:00</div>
+                <div class="font-size13 text-light-gray">Fedra</div>
               </td>
-              <td class="bg-light-gray"></td>
+
               <td>
-                <span class="bg-purple padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  Art
+                <span class="bg-pink padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
+                  Weight Lifting
                 </span>
-                <div class="margin-10px-top font-size14">10:00-11:00</div>
-                <div class="font-size13 text-light-gray">Kate Alley</div>
+                <div class="margin-10px-top font-size14">18:00-19:00</div>
+                <div class="font-size13 text-light-gray">Fedra</div>
+                <span class="bg-purple padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
+                  CrossCardio
+                </span>
+                <div class="margin-10px-top font-size14">18:00-19:00</div>
+                <div class="font-size13 text-light-gray">Alex</div>
+              </td>
+
+              <td>
+                <span class="bg-green padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
+                  RxClass
+                </span>
+                <div class="margin-10px-top font-size14">18:00-19:00</div>
+                <div class="font-size13 text-light-gray">Pierre</div>
+                <span class="bg-orange padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
+                  Gymnastic
+                </span>
+                <div class="margin-10px-top font-size14">18:00-19:00</div>
+                <div class="font-size13 text-light-gray">Fedra</div>
+              </td>
+              <td>
+                <span class="bg-pink padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
+                  Weight Lifting
+                </span>
+                <div class="margin-10px-top font-size14">18:00-19:00</div>
+                <div class="font-size13 text-light-gray">Fedra</div>
+                <span class="bg-purple padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
+                  CrossCardio
+                </span>
+                <div class="margin-10px-top font-size14">18:00-19:00</div>
+                <div class="font-size13 text-light-gray">Alex</div>
               </td>
               <td>
                 <span class="bg-green padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  Yoga
+                  RxClass
                 </span>
-                <div class="margin-10px-top font-size14">10:00-11:00</div>
-                <div class="font-size13 text-light-gray">Marta Healy</div>
-              </td>
-              <td>
-                <span class="bg-pink padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  English
+                <div class="margin-10px-top font-size14">18:00-19:00</div>
+                <div class="font-size13 text-light-gray">Pierre</div>
+                <span class="bg-orange padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
+                  Gymnastic
                 </span>
-                <div class="margin-10px-top font-size14">10:00-11:00</div>
-                <div class="font-size13 text-light-gray">James Smith</div>
+                <div class="margin-10px-top font-size14">18:00-19:00</div>
+                <div class="font-size13 text-light-gray">Fedra</div>
               </td>
               <td class="bg-light-gray"></td>
             </tr>
 
             <tr>
-              <td class="align-middle">11:00am</td>
+              <td class="align-middle">19:00pm</td>
               <td>
-                <span class="bg-lightred padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  Break
+                <span className="bg-sky padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16 xs-font-size13">
+                  CrossStart
                 </span>
-                <div class="margin-10px-top font-size14">11:00-12:00</div>
-              </td>
-              <td>
-                <span class="bg-lightred padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  Break
-                </span>
-                <div class="margin-10px-top font-size14">11:00-12:00</div>
-              </td>
-              <td>
-                <span class="bg-lightred padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  Break
-                </span>
-                <div class="margin-10px-top font-size14">11:00-12:00</div>
-              </td>
-              <td>
-                <span class="bg-lightred padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  Break
-                </span>
-                <div class="margin-10px-top font-size14">11:00-12:00</div>
-              </td>
-              <td>
-                <span class="bg-lightred padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  Break
-                </span>
-                <div class="margin-10px-top font-size14">11:00-12:00</div>
-              </td>
-              <td>
-                <span class="bg-lightred padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  Break
-                </span>
-                <div class="margin-10px-top font-size14">11:00-12:00</div>
-              </td>
-            </tr>
-
-            <tr>
-              <td class="align-middle">12:00pm</td>
-              <td class="bg-light-gray"></td>
-              <td>
-                <span class="bg-purple padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  Art
-                </span>
-                <div class="margin-10px-top font-size14">12:00-1:00</div>
-                <div class="font-size13 text-light-gray">Kate Alley</div>
-              </td>
-              <td>
-                <span class="bg-sky padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  Dance
-                </span>
-                <div class="margin-10px-top font-size14">12:00-1:00</div>
-                <div class="font-size13 text-light-gray">Ivana Wong</div>
+                <div className="margin-10px-top font-size14">19:00-20:00</div>
+                <div className="font-size13 text-light-gray">Pierre</div>
               </td>
               <td>
                 <span class="bg-yellow padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  Music
+                  CrossTraining
                 </span>
-                <div class="margin-10px-top font-size14">12:00-1:00</div>
-                <div class="font-size13 text-light-gray">Ivana Wong</div>
+                <div class="margin-10px-top font-size14">19:00-20:00</div>
+                <div class="font-size13 text-light-gray">Alex</div>
               </td>
-              <td class="bg-light-gray"></td>
               <td>
-                <span class="bg-green padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  Yoga
+                <span className="bg-sky padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16 xs-font-size13">
+                  CrossStart
                 </span>
-                <div class="margin-10px-top font-size14">12:00-1:00</div>
-                <div class="font-size13 text-light-gray">Marta Healy</div>
-              </td>
-            </tr>
-
-            <tr>
-              <td class="align-middle">01:00pm</td>
-              <td>
-                <span class="bg-pink padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  English
-                </span>
-                <div class="margin-10px-top font-size14">1:00-2:00</div>
-                <div class="font-size13 text-light-gray">James Smith</div>
+                <div className="margin-10px-top font-size14">19:00-20:00</div>
+                <div className="font-size13 text-light-gray">Pierre</div>
               </td>
               <td>
                 <span class="bg-yellow padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  Music
+                  CrossTraining
                 </span>
-                <div class="margin-10px-top font-size14">1:00-2:00</div>
-                <div class="font-size13 text-light-gray">Ivana Wong</div>
+                <div class="margin-10px-top font-size14">19:00-20:00</div>
+                <div class="font-size13 text-light-gray">Alex</div>
+              </td>
+              <td>
+                <span className="bg-sky padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16 xs-font-size13">
+                  CrossStart
+                </span>
+                <div className="margin-10px-top font-size14">19:00-20:00</div>
+                <div className="font-size13 text-light-gray">Pierre</div>
               </td>
               <td class="bg-light-gray"></td>
-              <td>
-                <span class="bg-pink padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  English
-                </span>
-                <div class="margin-10px-top font-size14">1:00-2:00</div>
-                <div class="font-size13 text-light-gray">James Smith</div>
-              </td>
-              <td>
-                <span class="bg-green padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  Yoga
-                </span>
-                <div class="margin-10px-top font-size14">1:00-2:00</div>
-                <div class="font-size13 text-light-gray">Marta Healy</div>
-              </td>
-              <td>
-                <span class="bg-yellow padding-5px-tb padding-15px-lr border-radius-5 margin-10px-bottom text-white font-size16  xs-font-size13">
-                  Music
-                </span>
-                <div class="margin-10px-top font-size14">1:00-2:00</div>
-                <div class="font-size13 text-light-gray">Ivana Wong</div>
-              </td>
             </tr>
           </tbody>
         </table>

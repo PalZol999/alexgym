@@ -3,6 +3,11 @@
   margin-top: 4rem;
 }
 
+.program iframe {
+  width: 50%;
+  height: 100%;
+}
+
 .program h1 {
   font-size: 3rem;
 }

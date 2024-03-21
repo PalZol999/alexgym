@@ -58,7 +58,7 @@
   }
 
   .prg-text {
-    width: 100%;
+    width: 50%;
   }
 
   .image {
@@ -66,7 +66,16 @@
     margin: 1.8rem 0;
   }
 
+  .images {
+    width: 110%;
+    margin: 1.8rem 0;
+  }
+
   .image img {
-    height: 250px;
+    height: 150px;
+  }
+
+  .images img {
+    height: 150px;
   }
 }
