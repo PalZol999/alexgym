@@ -1,13 +1,15 @@
 .hero {
   width: 100%;
-  height: 100vh;
+  height: calc(100vh - 2cm); /* Adjust the height to remove the white line */
   position: relative;
+  margin-top: -2cm; /* Negative margin to push the image to the very top */
 }
 
 .hero-mid {
   width: 100%;
-  height: 80vh;
+  height: calc(100vh - 2cm);
   position: relative;
+  margin-top: -2cm;
 }
 
 .hero-mid h1 {

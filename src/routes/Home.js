@@ -18,7 +18,7 @@ function Home() {
         You can learn the basis of good movements, mixed with hight intensity sessions.
         From the beginner to the advance athlete, our varity of courese offer you the possbilit to improve in any field or any goals that you have."
         buttonText="Sign in"
-        url="/"
+        url="/contact"
         btnClass="show"
       />
       <Program />

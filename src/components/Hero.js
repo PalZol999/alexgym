@@ -19,10 +19,3 @@ function Hero(props) {
 }
 
 export default Hero;
-
-/* 
-<img alt="HeroImg" src="../assets/dl.jpg"></img>
-
-
-
-*/
